@@ -23,6 +23,7 @@ the impagina.org website
   - pull the comment through the github API and show them on the page
   - have a link for adding the issue / go to the issue and make comments
 - contributions to the specification are made through fork / branch / pull request or by incorporation of the comments by an "admin"
+- show a list of mantis ticket related to the specification (probably by getting from the API by tag)
 
 open questions:
 - how to tag the specification and make them easier to search / filter?
